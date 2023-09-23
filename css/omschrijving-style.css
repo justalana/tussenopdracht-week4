@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;700;800&display=swap');
+
+body {
+    font-family: 'Raleway', sans-serif;
+    margin: 0;
+    font-size: 16px;
+    background-color: #F9F8F0;
+    margin-top: 5vw;
+}
+
+p {
+    line-height: 1.6;
+}
+
+/**HEADER**/
+.omschrijving {
+    display: flex;
+    gap: 40px;
+    margin-left: 10vw;
+    margin-right: 10vw;
+}
+
+.pros-cons-box {
+    padding: 20px 300px 10px 40px;
+    background-color: #CFDED2;
+}
+
+#check-symbol {
+    width: 15px;
+    margin-right: 10px;
+}
+
+#x-symbol {
+    width: 15px;
+    margin-right: 10px;
+}
+
+.omschrijving-text {
+    flex-basis: 900px;
+}
+
+
+/**MAIN**/
+main {
+    margin-top: 50px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    background-color: #CFDED2;
+}
+
+h1 {
+    text-align: center;
+}
+
+.gerelateerde-producten {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    text-align: center;
+}
+
+img{
+    width: 100px;
+}
+
+h3 {
+    cursor: pointer;
+}
+
+h3:hover {
+    text-decoration: underline;
+}
+
+#book-text {
+    text-align: left;
+}
+
+#legends-and-lattes {
+    flex-basis: 300px;
+    margin-right: 30px;
+}
+
+#midnight-library {
+    flex-basis: 300px;
+}
+
+#both-die {
+    flex-basis: 300px;
+    margin-left: 30px;
+}
+
+
+/**FOOTER**/
+footer {
+    background-color: #2B3B30;
+    padding: 50px 0px;
+    text-align: center;
+}
+
+a {
+    color: #F9F8F0;
+    padding: 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}

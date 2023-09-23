@@ -1,0 +1,20 @@
+donker bruin
+#3D3129
+
+oranje
+#E1893D
+
+licht Oranje
+#F3D5BA
+
+wit
+#F9F8F0
+
+licht groen
+#CFDED2
+
+groen 
+#629677
+
+donker groen
+#2B3B30
